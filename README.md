@@ -23,7 +23,10 @@ In the second model, we implement CNN ResNet-50 model. The trainig time is multi
 Importrant to note that I custom run the training to run 2 epochs only for time saving purposes but ideally N_EPOCHS=50. 
 
 ## Evaluation
-https://github.com/Abysinikal/S2_CLS/blob/1710891584f368efcb03fc53c9a2f6d86c991ddd/CMX_RF.png
+![CMX_CNN](https://user-images.githubusercontent.com/62526508/125800164-92650f79-4323-4df8-b2e4-db7a4b3ec1bd.png)
+![CMX_RF](https://user-images.githubusercontent.com/62526508/125800173-b5418904-974d-48d8-8b53-1c2b00f8d49b.png)
+![CLR_RF](https://user-images.githubusercontent.com/62526508/125800179-bdf2daa9-bc6a-4969-81f2-29ef31bea854.png)
+![CLR_CNN](https://user-images.githubusercontent.com/62526508/125800205-8ccbd681-e50e-4aea-8672-f982ca587a14.png)
 
 
 ## References 
