@@ -27,7 +27,7 @@ You will find here the evaluation of the two models
 ##### Confusion Matrix :
 
 ![CMX_RF](https://user-images.githubusercontent.com/62526508/125800173-b5418904-974d-48d8-8b53-1c2b00f8d49b.png)
-![CMX_CNN](https://user-images.githubusercontent.com/62526508/125800164-92650f79-4323-4df8-b2e4-db7a4b3ec1bd.png)
+![image](https://user-images.githubusercontent.com/62526508/125804335-efcc90e4-9344-44c9-b4a5-f560c2b4b8aa.png)
 ##### Classification Reports : 
 
 ![CLR_CNN](https://user-images.githubusercontent.com/62526508/125800205-8ccbd681-e50e-4aea-8672-f982ca587a14.png)
