@@ -1,7 +1,7 @@
 # Machine Learning for Remote sensing : Random Forest vs Neural Networks on EuroSAT dataset
  
 In this project,we are building two classifiers determining the land use and land cover classification of Sentinel-2 satellite images (EuroSAT dataset). The first model uses the Random Forest algorithm while the second uses the ResNet50 CNN algorithm. 
-The project is therefore a comparative analysis of the two models trained on the same EuroSAT dataset. The EuroSAT dataset can be downloaded from http://madm.dfki.de/downloads. For more information please refer to [Helber et al. (2018)](https://arxiv.org/abs/1709.00029)
+The EuroSAT dataset can be downloaded from http://madm.dfki.de/downloads. For more information please refer to [Helber et al. (2018)](https://arxiv.org/abs/1709.00029)
 
 
 
