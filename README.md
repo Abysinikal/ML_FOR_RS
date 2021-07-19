@@ -13,7 +13,7 @@ There is an important preprocessing step where training and testing directories 
 ### Training
 
 
-In the first model, We implement a simple RandomForestClassifier. The training time is 11 roughly minutes. 
+In the first model, We implement a simple RandomForestClassifier. The training time is roughly 11 minutes. 
 
 In the second model, we implement CNN ResNet-50 model. The trainig time is multiple hours. (Refer to attached python notebooks for details as i commented and also left all outputs after each run).
 Importrant to note that I custom run the training to run 2 epochs only for time saving purposes but ideally N_EPOCHS=50. 
