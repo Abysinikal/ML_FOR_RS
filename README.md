@@ -7,7 +7,7 @@ The EuroSAT dataset can be downloaded from http://madm.dfki.de/downloads. For mo
 
 
 
-## B. Methodology and implmentation 
+## B. Methodology and implementation 
 ### B.1.Pre-Processing
 There is an important preprocessing step where training and testing directories and respective subdirectories are created. ALso in this step, StratifiedShuffleSplit from sklearn.model_selection module is used to random 80% to 20% train/test split while moving the images to subdirectories.ImageDataGnerator Instance  is created for data augmentation
 
