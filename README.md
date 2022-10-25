@@ -1,4 +1,4 @@
-# Landcover classification of Sentinel2 image data using machine learning
+# Landcover classification of Sentinel2 image data : Random Forest vs Deep Learning
  
  ## A. Problem adressed 
 In this project, I  am building two classifiers determining the land use and land cover classification of Sentinel-2 satellite images (EuroSAT dataset). The first model uses the Random Forest algorithm while the second uses the ResNet50 CNN algorithm. 
