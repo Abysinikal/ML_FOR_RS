@@ -8,10 +8,10 @@ The EuroSAT dataset can be downloaded from http://madm.dfki.de/downloads. For mo
 
 
 ## B. Methodology and implmentation 
-### Pre-Processing
+### B.1.Pre-Processing
 There is an important preprocessing step where training and testing directories and respective subdirectories are created. ALso in this step, StratifiedShuffleSplit from sklearn.model_selection module is used to random 80% to 20% train/test split while moving the images to subdirectories.ImageDataGnerator Instance  is created for data augmentation
 
-### Training
+### B.2. Training
 
 
 In the first model, We implement a simple RandomForestClassifier. The training time is roughly 11 minutes. 
